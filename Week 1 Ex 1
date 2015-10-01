@@ -1,0 +1,26 @@
+1.	What is a code repository (often also called version control system) used for? 
+This is basically an area / storage space where you can store / keep a computer program otherwise known as “Source Code” or “Code”. It also can store related documents, local or online repositories and Source code version control, this is what a Code Repository used for. 
+
+2.	Why is it advantageous to use a code repository? 
+A repository is advantageous because more than one person can look at what’s in the storage space as well as you can store related Source Code and documents etc. in one place.
+
+3.	Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software. 
+The layers that exists are Users > Application Software > System Software > Hardware. The reason why there is different layers is for each layer is to communicate to each other from the User to the Hardware to perform a task.
+
+4.	Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program. 
+An Algorithm is a process in which a list of certain rules must be in the correct order to resolve a problem. This can also be understood as a set instructions that should be followed for a desired outcome for a solution.
+
+5.	Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR.
+IF you have a bowl place egg contents inside the bowl along with milk
+BEAT eggs and milk 
+UNTIL blended
+HEAT the butter you have in a non-stick pan 
+GENTLEY place the eggs in the pan (WHEN the butter is melted in the pan)
+CONTINUE cooking, stir eggs around the pan often 
+REMOVE pan from heat (IF cooked) 
+WHEN cooked serve your scrambled eggs 
+
+6.	Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.
+
+
+print("Hello world")
