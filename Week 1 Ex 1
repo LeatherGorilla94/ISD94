@@ -23,4 +23,19 @@ WHEN cooked serve your scrambled eggs
 6.	Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.
 
 
+1) 
 print("Hello world")
+
+2) 
+print("Hello World")
+print("I am in my ISD class right now")
+
+3)
+print("Hi there, what is your name?")
+name = input()
+print("Hello")
+addname = input
+print("How are you?")
+
+4) 
+
