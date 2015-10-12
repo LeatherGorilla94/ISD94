@@ -21,7 +21,7 @@ REMOVE pan from heat (IF cooked)
 WHEN cooked serve your scrambled eggs 
 
 6.	Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.
-
+Idle is an interpreter and a compiler because it uses the Python language understand/interpret the Source Code written when it’s read then run. The complier aspect of Idle is basically the part of Idle where you can save and write code for later use.
 
 1) 
 print("Hello world")
@@ -31,11 +31,17 @@ print("Hello World")
 print("I am in my ISD class right now")
 
 3)
-print("Hi there, what is your name?")
-name = input()
-print("Hello")
-addname = input
-print("How are you?")
+username=input("oh by the way, what is your name?")
+print ("oh well, thank you", username,"for using this program")
 
 4) 
-
+numberOne = input("Please enter number one   ")
+print("Thank you, you typed in ", numberOne)
+numberTwo = input("Please enter number two   ")
+print("Thank you, you typed in ", numberTwo)
+numberOne = int(numberOne)
+numberTwo = int(numberTwo)
+result = numberOne * numberTwo
+print("The result of your muliplication is =", result)
+username = input("Oh by the way what is your name? ")
+print("Oh well, thank you",username,"for using this program")
