@@ -1,1 +1,24 @@
+1.
+num=4
+num*=2
+num1=num+2
+num1+=3
+print(num1)
 
+13
+
+2.
+print(2/3)
+0.6666666666666
+print(2//3)
+0
+The reason why each of these give different answers is because the first line use a quotient “/” which is to divide one number by another number. The second line of print code used an integer quotient and this will only give its division answer in an integer which is a complete and whole number not any sort of fraction e.g. -1, 0, 1, 2, 5, 10, 15, 20 etc.
+
+3.
+area
+
+4.
+These are variable names that are not allowed in Python.
+APPLE, Apple2, account number, account.number, Fred, 5Return, GreatBigVariable, great.big.variable and 2x
+
+5.
